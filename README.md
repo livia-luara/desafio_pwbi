@@ -24,3 +24,11 @@ O objetivo principal foi desenvolver painéis com visualização de dados fictí
 1. Baixe ou clone este repositório.
 2. Abra o arquivo .pbix no Power BI Desktop.
 3. Navegue pelas páginas utilizando os botões e explore as funcionalidades interativas livremente.
+
+## Atualização para Versão Final 2.0
+- Melhorei o design e a experiência do usuário, levando em consideração pontos como:
+  - **Posicionamento**: Organizei os elementos para uma navegação mais fluida entre as páginas.
+  - **Contraste**: Para garantir melhor legibilidade e diferenciação visual.
+  - **Design das Páginas**: As três páginas do relatório foram redesenhadas com foco na experiência do usuário.
+  - **Proporção Áurea**: Apliquei uma nova estética visual harmônica.
+  - **Menus**: Implementação de menus de navegabilidade intuitivos para cada página.
