@@ -32,3 +32,6 @@ O objetivo principal foi desenvolver painéis com visualização de dados fictí
   - **Design das Páginas**: As três páginas do relatório foram redesenhadas com foco na experiência do usuário.
   - **Proporção Áurea**: Apliquei uma nova estética visual harmônica.
   - **Menus**: Implementação de menus de navegabilidade intuitivos para cada página.
+ 
+## Relatório Final
+Relatório final adicionado em formato PDF e PBIX para uma visualização dinâmica e completa.
